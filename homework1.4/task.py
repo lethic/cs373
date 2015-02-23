@@ -24,7 +24,7 @@ def calculate():
     #ANY CODE ABOVE WILL CAUSE
     #HOMEWORK TO BE GRADED
     #INCORRECT
-  
+ ddd 
     p = []
 
     #Your probability array must be printed 
@@ -32,4 +32,4 @@ def calculate():
 
     show(p)
     return p
-
+i
